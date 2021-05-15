@@ -1,3 +1,11 @@
+# 咕了  
+因为 http://ssp.shillest.net/bts/view.php?id=137 ，咕了  
+咕起来真舒服  
+等啥时修好了我在把这玩意写完还有给Taromati2加上这个saori  
+曳  
+
+# 别看了，下面的东西等写完了才有用  
+
 ### OICQ-saori  
 基于[SSTP_linker]( https://github.com/Taromati2/SSTP_linker )与[mirai-cpp]( https://github.com/cyanray/mirai-cpp )、[csaori]( https://github.com/ponapalt/csaori )，提供将已启动的伪春菜登录至QQ的功能（好比一个bot！）  
 
