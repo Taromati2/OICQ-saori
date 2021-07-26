@@ -1,7 +1,6 @@
 # 咕了  
-因为 http://ssp.shillest.net/bts/view.php?id=170 ，咕了  
+因为懒，咕了  
 咕起来真舒服  
-等啥时修好了我在把这玩意写完还有给Taromati2加上这个saori  
 曳  
 
 # 别看了，下面的东西等写完了才有用  
